@@ -8,3 +8,25 @@
   transform: translate(-50%, -50%);
 }
 
+
+.contacts{
+ border-style: solid;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:#176DA3;
+    border-radius: 15px;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    font-family: 'Patrick Hand';
+}
+
+h4{
+    font-size: 45px;
+    text-align: center;
+}
