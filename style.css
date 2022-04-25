@@ -1,5 +1,18 @@
 
 
+
+.image{
+width: 100%;
+    
+    
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 /* Centered text */
 .centered {
   position: absolute;
@@ -19,6 +32,37 @@
     border-radius: 15px;
 }
 
+.partone{
+    border-style: solid;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:#176DA3;
+    border-radius: 15px;
+}
+
+.myplan{
+    border-style: solid;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:#176DA3;
+    border-radius: 15px;
+}
+
+.parttwo{
+    border-style: solid;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:#176DA3;
+    border-radius: 15px;
+}
+
+
 h1{
     font-size: 100px;
     color: white;
@@ -28,5 +72,17 @@ h1{
 
 h4{
     font-size: 45px;
+    text-align: center;
+    color: white;
+}
+
+h6{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+h7{
+    font-size: 30px;
     text-align: center;
 }
