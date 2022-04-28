@@ -3,8 +3,8 @@
 
 .image{
 width: 100%;
-    
-    
+
+
 }
 
 .container {
@@ -19,6 +19,11 @@ width: 100%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.nav-item{
+    font-size: 20px;
+    font-family: "Gill Sans", sans-serif;
 }
 
 
@@ -42,7 +47,7 @@ width: 100%;
     border-radius: 15px;
 }
 
-.myplan{
+.Plan{
     border-style: solid;
     margin-top:50px;
     margin-bottom:50px;
@@ -52,7 +57,18 @@ width: 100%;
     border-radius: 15px;
 }
 
-.parttwo{
+.Overview{
+    border-style: solid;
+    margin-top:50px;
+    margin-bottom:50px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:#176DA3;
+    border-radius: 15px;
+}
+
+
+.Benefits{
     border-style: solid;
     margin-top:50px;
     margin-bottom:50px;
@@ -67,22 +83,38 @@ h1{
     font-size: 100px;
     color: white;
     text-align: center;
-    font-family: 'Patrick Hand';
+    font-family: "Gill Sans", sans-serif;
 }
 
 h4{
-    font-size: 45px;
-    text-align: center;
-    color: white;
-}
-
-h6{
     font-size: 35px;
     text-align: center;
     color: white;
+    font-family: "Gill Sans", sans-serif;
+}
+
+h5{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+
+}
+
+h6{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
 }
 
 h7{
     font-size: 30px;
     text-align: center;
+    font-family: "Gill Sans", sans-serif;
+}
+
+li{
+    font-size: 1px;
+    font-family: "Gill Sans", sans-serif;
 }
