@@ -21,6 +21,9 @@ width: 100%;
   transform: translate(-50%, -50%);
 }
 
+
+
+
 .nav-item{
     font-size: 20px;
     font-family: "Gill Sans", sans-serif;
@@ -29,7 +32,7 @@ width: 100%;
 
 .contacts{
  border-style: solid;
-    margin-top:50px;
+    margin-top:100px;
     margin-bottom:50px;
     padding-left:50px;
     padding-right:50px;
@@ -39,7 +42,7 @@ width: 100%;
 
 .partone{
     border-style: solid;
-    margin-top:50px;
+    margin-top:100px;
     margin-bottom:50px;
     padding-left:50px;
     padding-right:50px;
@@ -49,7 +52,7 @@ width: 100%;
 
 .Plan{
     border-style: solid;
-    margin-top:50px;
+    margin-top:100px;
     margin-bottom:50px;
     padding-left:50px;
     padding-right:50px;
@@ -59,7 +62,7 @@ width: 100%;
 
 .Overview{
     border-style: solid;
-    margin-top:50px;
+    margin-top:100px;
     margin-bottom:50px;
     padding-left:50px;
     padding-right:50px;
@@ -70,7 +73,7 @@ width: 100%;
 
 .Benefits{
     border-style: solid;
-    margin-top:50px;
+    margin-top:100px;
     margin-bottom:50px;
     padding-left:50px;
     padding-right:50px;
